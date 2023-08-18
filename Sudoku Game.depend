@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1692365865 source:d:\embedded diploma\sudoku game\functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1692363914 source:d:\embedded diploma\sudoku game\main.c
+	<stdio.h>
+	<stdlib.h>
+
